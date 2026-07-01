@@ -1,34 +1,34 @@
-# Void – Custom Card Pack für MD Pro 3
+# Void – Custom Card Pack for MD Pro 3
 
-Ein kleiner selbstgebauter Dark-Fantasy-Archetyp (7 Karten) rund ums **verdeckte
-Verbannen** ("Void"). Die Void-Monster werden mit jeder verbannten Gegnerkarte
-stärker (Beatdown), plus Kontroll-Effekte und ein Fusions-Boss per Kontaktfusion.
+A small self-made dark-fantasy archetype (7 cards) built around **face-down banishing**
+("Void"). The Void monsters grow stronger with every card your opponent has banished
+(beatdown), plus control effects and a Fusion boss summoned via Contact Fusion.
 
-## Installation (dauert 30 Sekunden)
+## Installation (takes 30 seconds)
 
 1. In MD Pro 3: **Settings → Expansions → "Download Custom Card Pack"**
-2. Diesen Link einfügen:
+2. Paste this link:
    ```
    https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-clan.ypk
    ```
-3. Spiel **komplett neu starten**.
-4. Im Deck-Editor nach **"Void"** suchen – die 7 Karten sind da.
+3. **Fully restart** the game.
+4. In the Deck Editor, search for **"Void"** – all 7 cards are there.
 
-> Zum Online-Spielen müssen **beide** Spieler den Link eingetragen haben.
+> For online play, **both** players must add the link.
 
-> **Empfohlenes Limit / Recommended limit:** *Auge des Voids* (Feldzauber) = **2** pro Deck.
-> Banlist-Limits sind pro Client – wer's mitspielen will, trägt es selbst ein.
+> **Recommended limit:** *Eye of the Void* (Field Spell) = **2** per Deck.
+> Banlist limits are per-client, so add it yourself if you want to play with it.
 
-## Die 7 Karten
+## The 7 cards
 
-| Karte | Typ | Kurz |
+| Card | Type | Short |
 |---|---|---|
-| Void-Späher | Effekt-Monster Lv3 | Verbannt bei Beschwörung 1 Gegner-Handkarte |
-| Void-Priesterin | Effekt-Monster Lv4 | Verbannt vom Feld + mischt zurück & zieht |
-| Void-Kundschafterin | Effekt-Monster Lv3 | SS aus der Hand, sucht 1 Void-Karte |
-| Void-Schatteneinbruch | Schnellzauber | Verbannt aus Gegner-Friedhof, beschwört Void-Monster |
-| Auge des Voids | Feldzauber | +300 ATK/DEF pro verbannter Gegnerkarte |
-| Hunger des Voids | Normale Falle | Annulliert Gegner-Aktivierung (Kosten: 2 verbannte) |
-| Herrscherin des Voids | Fusion Lv8 | Kontaktfusion, friert Gegnerfeld ein |
+| Void Seeker | Effect Monster · Lv3 · DARK · Spellcaster | On summon: banish 1 random card from opponent's hand |
+| Void Priestess | Effect Monster · Lv4 · DARK · Spellcaster | Banish from field + shuffle back & draw |
+| Void Ranger | Effect Monster · Lv3 · DARK · Spellcaster | Special Summon from hand, searches 1 Void card |
+| Void Shadow Incursion | Quick-Play Spell | Banish from opponent's GY, Special Summon a Void monster |
+| Eye of the Void | Field Spell | +300 ATK/DEF per opponent's banished card |
+| Hunger of the Void | Normal Trap | Negate opponent's activation (cost: 2 banished cards) |
+| Empress of the Void | Fusion · Lv8 · DARK · Spellcaster | Contact Fusion, freezes the opponent's field |
 
-Viel Spaß! Feedback willkommen.
+Have fun! Feedback welcome.
