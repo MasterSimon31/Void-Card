@@ -9,7 +9,7 @@ stärker (Beatdown), plus Kontroll-Effekte und ein Fusions-Boss per Kontaktfusio
 1. In MD Pro 3: **Settings → Expansions → "Download Custom Card Pack"**
 2. Diesen Link einfügen:
    ```
-   <HIER DEN RAW-LINK ZUR void-clan.ypk EINFÜGEN>
+   https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-clan.ypk
    ```
 3. Spiel **komplett neu starten**.
 4. Im Deck-Editor nach **"Void"** suchen – die 7 Karten sind da.
