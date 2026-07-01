@@ -1,13 +1,21 @@
 # Void – Custom Card Pack for MD Pro 3
 
-A small self-made dark-fantasy archetype (7 cards) built around **face-down banishing**
-("Void"). The Void monsters grow stronger with every card your opponent has banished
-(beatdown), plus control effects and a Fusion boss summoned via Contact Fusion.
+🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
+banishing** ("Void"). The Void monsters grow stronger with every card your opponent
+has banished (beatdown), plus control effects and a Fusion boss summoned via Contact
+Fusion. Available in **English and German**.
 
-## Installation (takes 30 seconds)
+🇩🇪 Ein kleiner selbstgebauter Dark-Fantasy-Archetyp (7 Karten) rund ums **verdeckte
+Verbannen** ("Void"). Die Void-Monster werden mit jeder verbannten Gegnerkarte stärker
+(Beatdown), plus Kontroll-Effekte und ein Fusions-Boss per Kontaktfusion. Verfügbar auf
+**Englisch und Deutsch**.
+
+---
+
+## Installation (30 seconds / 30 Sekunden)
 
 1. In MD Pro 3: **Settings → Expansions → "Download Custom Card Pack"**
-2. Paste the link for your language / Link für deine Sprache:
+2. Paste the link for your language / Link für deine Sprache einfügen:
 
    **English:**
    ```
@@ -17,29 +25,38 @@ A small self-made dark-fantasy archetype (7 cards) built around **face-down bani
    ```
    https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-clan-de.ypk
    ```
-3. **Fully restart** the game.
-4. In the Deck Editor, search for **"Void"** – all 7 cards are there.
+3. **Fully restart the game / Spiel komplett neu starten.**
+4. In the Deck Editor, search for **"Void"** / im Deck-Editor nach **"Void"** suchen.
 
-> Use only **one** of the two links (same cards, different language). To switch,
-> remove the pack and add the other link.
-> Beide Pakete sind dieselben Karten – nur **eine** Sprache installieren; zum
-> Wechseln die Erweiterung entfernen und den anderen Link eintragen.
+> 🇬🇧 Use only **one** of the two links (same cards, different language). For online
+> play, **both** players need the pack. To switch language, remove the pack and add
+> the other link.
+>
+> 🇩🇪 Nur **einen** der beiden Links installieren (dieselben Karten, andere Sprache).
+> Zum Online-Spielen brauchen **beide** Spieler das Pack. Zum Sprachwechsel die
+> Erweiterung entfernen und den anderen Link eintragen.
 
-> For online play, **both** players must add the link.
+> **Recommended limit / Empfohlenes Limit:** *Eye of the Void / Auge des Voids*
+> (Field Spell / Feldzauber) = **2**. Banlist limits are per client, so add it
+> yourself if you want to play with it. / Banlist-Limits sind pro Client – wer's
+> mitspielen will, trägt es selbst ein.
 
-> **Recommended limit:** *Eye of the Void* (Field Spell) = **2** per Deck.
-> Banlist limits are per-client, so add it yourself if you want to play with it.
+---
 
-## The 7 cards
+## The 7 cards / Die 7 Karten
 
-| Card | Type | Short |
+| English | Deutsch | Type / Typ |
 |---|---|---|
-| Void Seeker | Effect Monster · Lv3 · DARK · Spellcaster | On summon: banish 1 random card from opponent's hand |
-| Void Priestess | Effect Monster · Lv4 · DARK · Spellcaster | Banish from field + shuffle back & draw |
-| Void Ranger | Effect Monster · Lv3 · DARK · Spellcaster | Special Summon from hand, searches 1 Void card |
-| Void Shadow Incursion | Quick-Play Spell | Banish from opponent's GY, Special Summon a Void monster |
-| Eye of the Void | Field Spell | +300 ATK/DEF per opponent's banished card |
-| Hunger of the Void | Normal Trap | Negate opponent's activation (cost: 2 banished cards) |
-| Empress of the Void | Fusion · Lv8 · DARK · Spellcaster | Contact Fusion, freezes the opponent's field |
+| Void Seeker | Void-Späher | Effect Monster · Lv3 · DARK · Spellcaster |
+| Void Priestess | Void-Priesterin | Effect Monster · Lv4 · DARK · Spellcaster |
+| Void Ranger | Void-Kundschafterin | Effect Monster · Lv3 · DARK · Spellcaster |
+| Void Shadow Incursion | Void-Schatteneinbruch | Quick-Play Spell / Schnellzauber |
+| Eye of the Void | Auge des Voids | Field Spell / Feldzauber |
+| Hunger of the Void | Hunger des Voids | Normal Trap / Normale Falle |
+| Empress of the Void | Herrscherin des Voids | Fusion · Lv8 · DARK · Spellcaster |
 
-Have fun! Feedback welcome.
+**Core idea / Kernidee:** banish your opponent's cards face-down, use them as a
+resource, and grow stronger the more you take. / Verbanne die Karten deines Gegners
+verdeckt, nutze sie als Ressource und werde stärker, je mehr du nimmst.
+
+Have fun! Feedback welcome. / Viel Spaß! Feedback willkommen.
