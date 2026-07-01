@@ -7,12 +7,23 @@ A small self-made dark-fantasy archetype (7 cards) built around **face-down bani
 ## Installation (takes 30 seconds)
 
 1. In MD Pro 3: **Settings → Expansions → "Download Custom Card Pack"**
-2. Paste this link:
+2. Paste the link for your language / Link für deine Sprache:
+
+   **English:**
    ```
    https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-clan.ypk
    ```
+   **Deutsch:**
+   ```
+   https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-clan-de.ypk
+   ```
 3. **Fully restart** the game.
 4. In the Deck Editor, search for **"Void"** – all 7 cards are there.
+
+> Use only **one** of the two links (same cards, different language). To switch,
+> remove the pack and add the other link.
+> Beide Pakete sind dieselben Karten – nur **eine** Sprache installieren; zum
+> Wechseln die Erweiterung entfernen und den anderen Link eintragen.
 
 > For online play, **both** players must add the link.
 
