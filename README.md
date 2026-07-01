@@ -16,6 +16,9 @@ stärker (Beatdown), plus Kontroll-Effekte und ein Fusions-Boss per Kontaktfusio
 
 > Zum Online-Spielen müssen **beide** Spieler den Link eingetragen haben.
 
+> **Empfohlenes Limit / Recommended limit:** *Auge des Voids* (Feldzauber) = **2** pro Deck.
+> Banlist-Limits sind pro Client – wer's mitspielen will, trägt es selbst ein.
+
 ## Die 7 Karten
 
 | Karte | Typ | Kurz |
