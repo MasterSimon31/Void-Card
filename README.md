@@ -59,4 +59,15 @@ Verbannen** ("Void"). Die Void-Monster werden mit jeder verbannten Gegnerkarte s
 resource, and grow stronger the more you take. / Verbanne die Karten deines Gegners
 verdeckt, nutze sie als Ressource und werde stärker, je mehr du nimmst.
 
+---
+
+## More packs / Weitere Packs
+
+Part of my self-made custom-card series for MD Pro 3 / Teil meiner selbstgebauten
+Custom-Card-Reihe für MD Pro 3:
+- 🌑 **Void** (this pack / dieses Pack) – face-down banishing / verdecktes Verbannen
+- 🧊 **[Eisberg](https://github.com/MasterSimon31/Eisberg-Card)** – WATER "Deep Summon" archetype / WASSER-Archetyp „Tiefenbeschwörung"
+
+---
+
 Have fun! Feedback welcome. / Viel Spaß! Feedback willkommen.
