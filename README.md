@@ -1,12 +1,11 @@
 # Void – Custom Card Pack for MD Pro 3
 
-> 🧪 **TEST-LINK (temporär — bitte nur zum Diagnostizieren, wird wieder entfernt):**
-> Das ist das *funktionierende Eisberg-Pack* aus DIESEM Repo. Damit prüfen wir, ob das
-> Void-Card-Repo selbst ok ist. Auf dem Tablet **„Clear Expansions"** → dann diesen Link:
+> 🧪 **TEST-LINK (temporär):** Void **ohne das Fusionsmonster** (nur 6 Karten). Damit prüfen wir,
+> ob die **Kontaktfusion** das Problem ist. Auf dem Tablet **„Clear Expansions"** → dann diesen Link:
 > ```
-> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/eisberg-test.ypk
+> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-nofusion.ypk
 > ```
-> → komplett neu starten → nach **„Eisberg"** suchen. Kommen die Karten? → Repo ist ok, dann liegt's an den Void-Karten.
+> → komplett neu starten → nach **„Void"** suchen. **6 Karten da (und die 14.000)** → das Fusionsmonster war der Übeltäter.
 
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
