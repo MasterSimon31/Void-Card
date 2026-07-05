@@ -1,10 +1,12 @@
 # Void – Custom Card Pack for MD Pro 3
 
-> 🧪 **TEST (temporär) — 1 Karte OHNE Bild.** „Clear Expansions" → dann diesen Link:
+> 🧪 **TEST (temporär) — NUR die nackte cdb** (kein Script, keine strings.conf, kein Bild). „Clear Expansions" → dann:
 > ```
-> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-noimg.ypk
+> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-cdbonly.ypk
 > ```
-> → komplett neu starten → nach **„Void"** suchen. **1 Karte + die 14.000 da** → dann war's das **Bild**.
+> → neu starten → suchen. **Karten da** → cdb-Daten sind ok (dann Script/strings.conf schuld). **0 Karten** → die cdb-Daten selbst sind's.
+>
+> Danach (falls cdbonly geht) der nächste: `.../void-cdbstr.ypk` (cdb + strings.conf) — prüft die `!setname`-Zeile.
 
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
