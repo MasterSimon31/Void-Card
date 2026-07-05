@@ -1,11 +1,10 @@
 # Void – Custom Card Pack for MD Pro 3
 
-> 🧪 **TEST-LINK (temporär):** Void **ohne das Fusionsmonster** (nur 6 Karten). Damit prüfen wir,
-> ob die **Kontaktfusion** das Problem ist. Auf dem Tablet **„Clear Expansions"** → dann diesen Link:
+> 🧪 **TEST (temporär) — Runde 1: nur 1 Karte (Void-Späher).** „Clear Expansions" → dann diesen Link:
 > ```
-> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-nofusion.ypk
+> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-1.ypk
 > ```
-> → komplett neu starten → nach **„Void"** suchen. **6 Karten da (und die 14.000)** → das Fusionsmonster war der Übeltäter.
+> → komplett neu starten → nach **„Void"** suchen. **1 Karte + die 14.000 da** → Basis ok, dann Runde 2 mit mehr Karten.
 
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
