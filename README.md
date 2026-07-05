@@ -1,12 +1,13 @@
 # Void – Custom Card Pack for MD Pro 3
 
-> 🧪 **TEST (temporär) — NUR die nackte cdb** (kein Script, keine strings.conf, kein Bild). „Clear Expansions" → dann:
+> 🧪 **TEST (temporär) — Kontrollkarte.** Erst diese (eine kerngesunde Vanilla-Testkarte, sonst nichts):
 > ```
-> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-cdbonly.ypk
+> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-safe.ypk
 > ```
-> → neu starten → suchen. **Karten da** → cdb-Daten sind ok (dann Script/strings.conf schuld). **0 Karten** → die cdb-Daten selbst sind's.
->
-> Danach (falls cdbonly geht) der nächste: `.../void-cdbstr.ypk` (cdb + strings.conf) — prüft die `!setname`-Zeile.
+> „Clear Expansions" → neu starten → suchen.
+> - **Karte + 14.000 da** → so ein Mini-Pack geht also → dann liegt's an Void-Spähers Werten. Dann diesen testen:
+>   `.../void-sc0.ypk` (Späher **ohne** setcode). Geht der → der **setcode 0xe80** war's.
+> - **0 Karten** → dann sprengt selbst eine perfekte Vanilla-Karte alles → dann liegt's nicht an den Daten, sondern am Tablet-Client bei Mini-Packs.
 
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
