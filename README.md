@@ -1,10 +1,10 @@
 # Void – Custom Card Pack for MD Pro 3
 
-> 🧪 **TEST (temporär) — Runde 1: nur 1 Karte (Void-Späher).** „Clear Expansions" → dann diesen Link:
+> 🧪 **TEST (temporär) — 1 Karte OHNE Bild.** „Clear Expansions" → dann diesen Link:
 > ```
-> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-1.ypk
+> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-noimg.ypk
 > ```
-> → komplett neu starten → nach **„Void"** suchen. **1 Karte + die 14.000 da** → Basis ok, dann Runde 2 mit mehr Karten.
+> → komplett neu starten → nach **„Void"** suchen. **1 Karte + die 14.000 da** → dann war's das **Bild**.
 
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
