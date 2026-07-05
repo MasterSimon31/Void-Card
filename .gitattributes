@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
+# Textdateien automatisch erkennen + LF-Normalisierung
 * text=auto
+
+# Custom-Card-Pack-Binaerdateien NIE normalisieren (sonst zerschiesst text=auto sie)
+*.ypk binary
+*.cdb binary
+*.jpg binary
+*.png binary
