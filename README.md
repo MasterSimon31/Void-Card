@@ -1,12 +1,12 @@
 # Void – Custom Card Pack for MD Pro 3
 
-> 🧪 **TEST — cdb komplett NEU von Grund auf erzeugt** (nichts aus der alten Datei kopiert), 1 echte Void-Karte:
+> 🧪 **TEST — korrektes Datei-Attribut (Android-Entpacker!).** Der eine konkrete Unterschied zu Eisberg gefunden:
 > ```
-> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/voidfresh.ypk
+> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/voidfresh2.ypk
 > ```
 > „Clear Expansions" → neu starten → nach „Void" suchen.
-> - ✅ **Karte + 14.000 da** → die alte cdb-Datei war intern kaputt → ich bau das volle Pack frisch, dann läuft's.
-> - ❌ Immer noch 0 → dann liegt's nicht an der cdb-Datei.
+> - ✅ **Karte + 14.000 da** → 🎉 gefunden! Mein Python-Zip hatte ein falsches Datei-Attribut auf der cdb, das Android beim Entpacken stört. Dann bau ich alle Packs korrekt neu.
+> - ❌ Immer noch 0 → dann war's auch das nicht.
 
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
