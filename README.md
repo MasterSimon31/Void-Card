@@ -1,16 +1,12 @@
 # Void – Custom Card Pack for MD Pro 3
 
-> 🧪 **VERMUTLICH DIE LÖSUNG — cdb-Name OHNE Bindestrich.** Erst dieser Kurz-Test:
+> 🧪 **TEST — cdb komplett NEU von Grund auf erzeugt** (nichts aus der alten Datei kopiert), 1 echte Void-Karte:
 > ```
-> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/voidsafe2.ypk
+> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/voidfresh.ypk
 > ```
-> „Clear Expansions" → neu starten → suchen. **Karte + 14.000 da?**
-> - ✅ **Ja** → der **Bindestrich im cdb-Namen** war der Killer! Dann das echte Deck testen:
->   ```
->   https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/voidclan.ypk
->   ```
->   (alle 7 Void-Karten, cdb = `voidclan.cdb`, kein Bindestrich). Läuft das → **gelöst.**
-> - ❌ Nein → dann war's doch nicht der Bindestrich.
+> „Clear Expansions" → neu starten → nach „Void" suchen.
+> - ✅ **Karte + 14.000 da** → die alte cdb-Datei war intern kaputt → ich bau das volle Pack frisch, dann läuft's.
+> - ❌ Immer noch 0 → dann liegt's nicht an der cdb-Datei.
 
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
