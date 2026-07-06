@@ -1,13 +1,16 @@
 # Void – Custom Card Pack for MD Pro 3
 
-> 🧪 **TEST (temporär) — Kontrollkarte.** Erst diese (eine kerngesunde Vanilla-Testkarte, sonst nichts):
+> 🧪 **VERMUTLICH DIE LÖSUNG — cdb-Name OHNE Bindestrich.** Erst dieser Kurz-Test:
 > ```
-> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-safe.ypk
+> https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/voidsafe2.ypk
 > ```
-> „Clear Expansions" → neu starten → suchen.
-> - **Karte + 14.000 da** → so ein Mini-Pack geht also → dann liegt's an Void-Spähers Werten. Dann diesen testen:
->   `.../void-sc0.ypk` (Späher **ohne** setcode). Geht der → der **setcode 0xe80** war's.
-> - **0 Karten** → dann sprengt selbst eine perfekte Vanilla-Karte alles → dann liegt's nicht an den Daten, sondern am Tablet-Client bei Mini-Packs.
+> „Clear Expansions" → neu starten → suchen. **Karte + 14.000 da?**
+> - ✅ **Ja** → der **Bindestrich im cdb-Namen** war der Killer! Dann das echte Deck testen:
+>   ```
+>   https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/voidclan.ypk
+>   ```
+>   (alle 7 Void-Karten, cdb = `voidclan.cdb`, kein Bindestrich). Läuft das → **gelöst.**
+> - ❌ Nein → dann war's doch nicht der Bindestrich.
 
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
