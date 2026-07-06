@@ -3,7 +3,7 @@
 🇬🇧 A small self-made dark-fantasy archetype (7 cards) built around **face-down
 banishing** ("Void"). The Void monsters grow stronger with every card your opponent
 has banished (beatdown), plus control effects and a Fusion boss summoned via Contact
-Fusion. (Card text in German.)
+Fusion. Available in **English and German**.
 
 🇩🇪 Ein kleiner selbstgebauter Dark-Fantasy-Archetyp (7 Karten) rund ums **verdeckte
 Verbannen** ("Void"). Die Void-Monster werden mit jeder verbannten Gegnerkarte stärker
@@ -15,14 +15,20 @@ Verbannen** ("Void"). Die Void-Monster werden mit jeder verbannten Gegnerkarte s
 ## Installation (30 seconds / 30 Sekunden)
 
 1. In MD Pro 3: **Settings → Expansions → "Download Custom Card Pack"**
-2. Diesen Link einfügen / paste this link:
+2. Paste the link for your language / Link für deine Sprache einfügen:
+
+   **English:**
+   ```
+   https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void-en.ypk
+   ```
+   **Deutsch:**
    ```
    https://raw.githubusercontent.com/MasterSimon31/Void-Card/main/void.ypk
    ```
 3. **Fully restart the game / Spiel komplett neu starten.**
 4. In the Deck Editor, search for **"Void"** / im Deck-Editor nach **"Void"** suchen.
 
-> 🇬🇧 For online play, **both** players need the pack. / 🇩🇪 Zum Online-Spielen brauchen **beide** Spieler das Pack.
+> 🇬🇧 Use only **one** of the two links (same cards, different language). For online play, **both** players need the pack. / 🇩🇪 Nur **einen** der beiden Links installieren (gleiche Karten, andere Sprache). Zum Online-Spielen brauchen **beide** Spieler das Pack.
 
 > **Recommended limit / Empfohlenes Limit:** *Eye of the Void / Auge des Voids*
 > (Field Spell / Feldzauber) = **2**. Banlist limits are per client, so add it
