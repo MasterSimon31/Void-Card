@@ -62,6 +62,7 @@ Custom-Card-Reihe für MD Pro 3:
 - 🌑 **Void** (this pack / dieses Pack) – face-down banishing / verdecktes Verbannen
 - 🧊 **[Eisberg](https://github.com/MasterSimon31/Eisberg-Card)** – WATER "Deep Summon" archetype / WASSER-Archetyp „Tiefenbeschwörung"
 - ✨ **[Astrala](https://github.com/MasterSimon31/Astrala-Card)** – four-element Fairy archetype, material flexibility / 4-Element-Feen-Archetyp mit Material-Flexibilität
+- ♾️ **[Aion](https://github.com/MasterSimon31/Aion-Card)** – eternal god, deliberately overwhelming / ewiger Gott, bewusst übermächtig
 
 ---
 
